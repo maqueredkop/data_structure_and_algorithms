@@ -18,7 +18,7 @@ class Stack:
     always takes place at the same end. This end is commonly referred to as the
     “top.” The end opposite the top is known as the “base.”
     
-    FIFO means First in first out
+    LIFO means Last in first out
     """
     
     def __init__(self):
